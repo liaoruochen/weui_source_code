@@ -3,7 +3,7 @@ weui  源码分析
 
 
 ## 表单
-    - 按钮
+    - Button
     - Input
     - List
     - Slider
